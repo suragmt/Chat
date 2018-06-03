@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Chat</string>
+    <string name="need_account">NEED ACCOUNT</string>
+    <string name="create_account">CREATE ACCOUNT</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="newacctext">Create a new account</string>
+    <string name="login_to_your_account">Login to your Account</string>
+    <string name="login_now">Login Now</string>
+    <string name="email_login">email</string>
+    <string name="password_login">password</string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="this_is_start_page">this is start page</string>
+    <string name="already_have_an_account">ALREADY HAVE AN ACCOUNT?</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="request_fragment">request fragment</string>
+    <string name="chat_fragment">chat fragment</string>
+    <string name="friends_fragment">friends fragment</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="change_status">CHANGE STATUS</string>
+    <string name="change_profile_photo">CHANGE PROFILE PHOTO</string>
+    <string name="user_name">User name</string>
+    <string name="hi_this_is_my_first_time_here">Hi This is my first time here..!</string>
+    <string name="display_name">Display Name</string>
+    <string name="display_named">Display name</string>
+    <string name="status">status</string>
+    <string name="textview">TextView</string>
+</resources>
